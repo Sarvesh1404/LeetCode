@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sarvesh1404/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sarvesh1404/LeetCode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Sarvesh1404/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Sarvesh1404/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sarvesh1404/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0202-happy-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Sarvesh1404/LeetCode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Sarvesh1404/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Sarvesh1404/LeetCode/tree/master/0342-power-of-four) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sarvesh1404/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
