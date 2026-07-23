@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Sarvesh1404/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Sarvesh1404/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvesh1404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/Sarvesh1404/LeetCode/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/Sarvesh1404/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sarvesh1404/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sarvesh1404/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvesh1404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sarvesh1404/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sarvesh1404/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sarvesh1404/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvesh1404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sarvesh1404/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sarvesh1404/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sarvesh1404/LeetCode/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Sarvesh1404/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvesh1404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Sarvesh1404/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarvesh1404/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sarvesh1404/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sarvesh1404/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sarvesh1404/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sarvesh1404/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Sarvesh1404/LeetCode/tree/master/0412-fizz-buzz) |
@@ -122,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Sarvesh1404/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Sarvesh1404/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Sarvesh1404/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Sarvesh1404/LeetCode/tree/master/0342-power-of-four) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sarvesh1404/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
