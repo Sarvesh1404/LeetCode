@@ -213,3 +213,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sarvesh1404/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
+
+## Leet Code Stats Card
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sarvesh_14?theme=dark&font=Oleo%20Script%20Swash%20Caps&ext=heatmap)
