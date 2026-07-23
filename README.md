@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sarvesh1404/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sarvesh1404/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sarvesh1404/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Sarvesh1404/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Sarvesh1404/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sarvesh1404/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sarvesh1404/LeetCode/tree/master/0055-jump-game) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sarvesh1404/LeetCode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvesh1404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sarvesh1404/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sarvesh1404/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
