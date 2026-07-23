@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sarvesh1404/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvesh1404/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Sarvesh1404/LeetCode/tree/master/0134-gas-station) |
+| [0200-number-of-islands](https://github.com/Sarvesh1404/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Sarvesh1404/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvesh1404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/Sarvesh1404/LeetCode/tree/master/0739-daily-temperatures) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sarvesh1404/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sarvesh1404/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sarvesh1404/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Sarvesh1404/LeetCode/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/Sarvesh1404/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
@@ -178,14 +180,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sarvesh1404/LeetCode/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sarvesh1404/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sarvesh1404/LeetCode/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sarvesh1404/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sarvesh1404/LeetCode/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sarvesh1404/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Queue
 |  |
