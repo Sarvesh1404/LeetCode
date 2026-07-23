@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sarvesh1404/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvesh1404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sarvesh1404/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sarvesh1404/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Sarvesh1404/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvesh1404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sarvesh1404/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Sarvesh1404/LeetCode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sarvesh1404/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sarvesh1404/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Sarvesh1404/LeetCode/tree/master/0326-power-of-three) |
