@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarvesh1404/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Sarvesh1404/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Sarvesh1404/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Sarvesh1404/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Sarvesh1404/LeetCode/tree/master/0217-contains-duplicate) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sarvesh1404/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Sarvesh1404/LeetCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Sarvesh1404/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Sarvesh1404/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sarvesh1404/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0268-missing-number) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sarvesh1404/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sarvesh1404/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sarvesh1404/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Sarvesh1404/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0268-missing-number) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sarvesh1404/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sarvesh1404/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/Sarvesh1404/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Sarvesh1404/LeetCode/tree/master/1122-relative-sort-array) |
@@ -290,5 +294,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sarvesh1404/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sarvesh1404/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sarvesh1404/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
 
