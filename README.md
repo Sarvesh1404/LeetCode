@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sarvesh1404/LeetCode/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/Sarvesh1404/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sarvesh1404/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sarvesh1404/LeetCode/tree/master/0066-plus-one) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sarvesh1404/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Sarvesh1404/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sarvesh1404/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0202-happy-number) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sarvesh1404/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Sarvesh1404/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Sarvesh1404/LeetCode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
