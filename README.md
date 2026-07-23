@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sarvesh1404/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sarvesh1404/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/Sarvesh1404/LeetCode/tree/master/1154-day-of-the-year) |
 | [2235-add-two-integers](https://github.com/Sarvesh1404/LeetCode/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sarvesh1404/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sarvesh1404/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sarvesh1404/LeetCode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sarvesh1404/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0709-to-lower-case](https://github.com/Sarvesh1404/LeetCode/tree/master/0709-to-lower-case) |
+| [1154-day-of-the-year](https://github.com/Sarvesh1404/LeetCode/tree/master/1154-day-of-the-year) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sarvesh1404/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
