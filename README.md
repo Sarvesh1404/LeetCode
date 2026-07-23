@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Sarvesh1404/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvesh1404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/Sarvesh1404/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/Sarvesh1404/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarvesh1404/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sarvesh1404/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sarvesh1404/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sarvesh1404/LeetCode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sarvesh1404/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/Sarvesh1404/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/Sarvesh1404/LeetCode/tree/master/0709-to-lower-case) |
 | [1154-day-of-the-year](https://github.com/Sarvesh1404/LeetCode/tree/master/1154-day-of-the-year) |
 | [1528-shuffle-string](https://github.com/Sarvesh1404/LeetCode/tree/master/1528-shuffle-string) |
