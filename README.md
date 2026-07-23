@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sarvesh1404/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/Sarvesh1404/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sarvesh1404/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/Sarvesh1404/LeetCode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Sarvesh1404/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Sarvesh1404/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/Sarvesh1404/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sarvesh1404/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0709-to-lower-case](https://github.com/Sarvesh1404/LeetCode/tree/master/0709-to-lower-case) |
 | [1154-day-of-the-year](https://github.com/Sarvesh1404/LeetCode/tree/master/1154-day-of-the-year) |
+| [1528-shuffle-string](https://github.com/Sarvesh1404/LeetCode/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sarvesh1404/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
