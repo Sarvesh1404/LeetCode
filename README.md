@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Sarvesh1404/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Sarvesh1404/LeetCode/tree/master/1154-day-of-the-year) |
 | [2235-add-two-integers](https://github.com/Sarvesh1404/LeetCode/tree/master/2235-add-two-integers) |
+| [2652-sum-multiples](https://github.com/Sarvesh1404/LeetCode/tree/master/2652-sum-multiples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sarvesh1404/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sarvesh1404/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sarvesh1404/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
