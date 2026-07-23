@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sarvesh1404/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Sarvesh1404/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sarvesh1404/LeetCode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Sarvesh1404/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Sarvesh1404/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sarvesh1404/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sarvesh1404/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Sarvesh1404/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
