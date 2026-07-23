@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarvesh1404/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sarvesh1404/LeetCode/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/Sarvesh1404/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sarvesh1404/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sarvesh1404/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sarvesh1404/LeetCode/tree/master/0066-plus-one) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sarvesh1404/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sarvesh1404/LeetCode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Sarvesh1404/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sarvesh1404/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Sarvesh1404/LeetCode/tree/master/0231-power-of-two) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sarvesh1404/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sarvesh1404/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sarvesh1404/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/Sarvesh1404/LeetCode/tree/master/1672-richest-customer-wealth) |
