@@ -5,4 +5,4 @@ class Solution:
         for i in digits:
             r=r*10+i   #r=0*10+1
         r=r+1
-        return list(map(int,str(r)))
+        return list(map(int,str(r)))    
