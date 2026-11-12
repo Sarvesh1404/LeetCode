@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sarvesh1404/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Sarvesh1404/LeetCode/tree/master/1154-day-of-the-year) |
+| [1447-simplified-fractions](https://github.com/Sarvesh1404/LeetCode/tree/master/1447-simplified-fractions) |
 | [2235-add-two-integers](https://github.com/Sarvesh1404/LeetCode/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/Sarvesh1404/LeetCode/tree/master/2652-sum-multiples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sarvesh1404/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sarvesh1404/LeetCode/tree/master/0258-add-digits) |
+| [1447-simplified-fractions](https://github.com/Sarvesh1404/LeetCode/tree/master/1447-simplified-fractions) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sarvesh1404/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sarvesh1404/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Sarvesh1404/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/Sarvesh1404/LeetCode/tree/master/0709-to-lower-case) |
 | [1154-day-of-the-year](https://github.com/Sarvesh1404/LeetCode/tree/master/1154-day-of-the-year) |
+| [1447-simplified-fractions](https://github.com/Sarvesh1404/LeetCode/tree/master/1447-simplified-fractions) |
 | [1528-shuffle-string](https://github.com/Sarvesh1404/LeetCode/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sarvesh1404/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
@@ -376,5 +379,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sarvesh1404/LeetCode/tree/master/0141-linked-list-cycle) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Sarvesh1404/LeetCode/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Sarvesh1404/LeetCode/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
 
