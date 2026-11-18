@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sarvesh1404/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sarvesh1404/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Sarvesh1404/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Sarvesh1404/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Sarvesh1404/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sarvesh1404/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sarvesh1404/LeetCode/tree/master/0066-plus-one) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sarvesh1404/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Sarvesh1404/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sarvesh1404/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Sarvesh1404/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sarvesh1404/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Sarvesh1404/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Sarvesh1404/LeetCode/tree/master/0169-majority-element) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sarvesh1404/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Sarvesh1404/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Sarvesh1404/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sarvesh1404/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0179-largest-number) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sarvesh1404/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sarvesh1404/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sarvesh1404/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Sarvesh1404/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sarvesh1404/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sarvesh1404/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sarvesh1404/LeetCode/tree/master/0125-valid-palindrome) |
