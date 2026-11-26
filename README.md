@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Sarvesh1404/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Sarvesh1404/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sarvesh1404/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Sarvesh1404/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sarvesh1404/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sarvesh1404/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sarvesh1404/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Sarvesh1404/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sarvesh1404/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Sarvesh1404/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sarvesh1404/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Sarvesh1404/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sarvesh1404/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Sarvesh1404/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -401,5 +404,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sarvesh1404/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sarvesh1404/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
 
