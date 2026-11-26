@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvesh1404/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sarvesh1404/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Sarvesh1404/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvesh1404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/Sarvesh1404/LeetCode/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/Sarvesh1404/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sarvesh1404/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Sarvesh1404/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvesh1404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sarvesh1404/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sarvesh1404/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvesh1404/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sarvesh1404/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sarvesh1404/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Sarvesh1404/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sarvesh1404/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Sarvesh1404/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarvesh1404/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sarvesh1404/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Sarvesh1404/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sarvesh1404/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/Sarvesh1404/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Sarvesh1404/LeetCode/tree/master/1122-relative-sort-array) |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sarvesh1404/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Sarvesh1404/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvesh1404/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sarvesh1404/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -379,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvesh1404/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sarvesh1404/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sarvesh1404/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -416,5 +422,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvesh1404/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sarvesh1404/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sarvesh1404/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
 
